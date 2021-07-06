@@ -1,0 +1,148 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+    margin: 2%;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0px
+}
+
+.section {
+    height: 500px;
+    padding-bottom: 50px;
+}
+
+.flex {
+    display: flex;
+}
+
+.img-cont {
+    height: 500px;
+    width: 652px;
+}
+
+#img-baner {
+    height: 500px;
+    width: 112%;
+    border-radius: 10px;
+}
+
+.doc-cont {
+    height: 500px;
+    width: 28%;
+    padding-left: 10%;
+    padding-top: 122px;
+}
+
+#doc-cont-h {
+    color: #40a5de;
+}
+
+.bottom {
+    padding: 10px 50px;
+    border: 2px;
+    background-image: linear-gradient(to right, #1c9ae2, #1e2e38);
+    text-decoration: none;
+    border-radius: 19px;
+    color: #fff;
+}
+
+.bottom-m {
+    margin-top: 52px;
+}
+
+.about-me {
+    background: url("images/7.png");
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    border-radius: 10px;
+}
+
+.section-recipie {
+    width: 80%;
+    padding: 2px;
+}
+
+.my-recipies {
+    padding: 2px;
+}
+
+.recipies {
+    width: 500px;
+    padding-left: 50px;
+}
+
+.recipies-doc {
+    text-align: center;
+    padding-left: 204px;
+}
+
+.recipies-del {
+    margin: 25px;
+    padding: 20px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    border-radius: 24px;
+}
+
+.recipies-img {
+    height: 250px;
+    width: 300px;
+    border-radius: 32px;
+}
+
+.section-social {
+    height: 150px;
+}
+
+.Social-activities {
+    margin: 80px 75px 80px 75px;
+    border-radius: 24px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+social-midea {
+    width: 50px;
+}
+
+.social-act {
+    padding-left: 179px;
+}
+
+footer {
+    margin-top: 150px;
+    height: 400px;
+}
+
+.contact-input {
+    display: block;
+    height: 500px;
+    width: 612px;
+    padding-left: 46px;
+    padding-top: 24px;
+}
+
+.input {
+    display: block;
+    padding: 13px 202px 15px 13px;
+    margin: 20px;
+}
+
+.input-msg {
+    padding: 38px 259px 17px 8px;
+    margin: 20px;
+    margin-bottom: 54px
+}
+
+#last-food-mama {
+    color: #a55346;
+}
+
+.last-div {
+    text-align: center;
+    background-color: #443b3f;
+    height: 150px;
+}
